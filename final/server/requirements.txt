@@ -1,0 +1,6 @@
+flask-jwt-extended
+bson
+Flask
+PyJWT
+Flask_JWT_Extended
+passlib
